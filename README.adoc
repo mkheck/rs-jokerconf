@@ -1,0 +1,19 @@
+= Spring + RSocket: An Introduction
+
+== Maintainer
+
+* Mark Heckler
+* mailto:mark@thehecklers.com[mark@thehecklers.com]
+* https://twitter.com/mkheck[@mkheck on Twitter]
+
+== Purpose
+
+This meta-repo accompanies my session titled *"Spring + RSocket: An Introduction"* and includes all code written within the session and more.
+
+*_Star+watch this repo for updates!_*
+
+== Related repositories
+
+https://github.com/mkheck/rs-server[RSocket server code]
+
+https://github.com/mkheck/rs-client[RSocket client code]
